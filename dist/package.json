@@ -1,0 +1,10 @@
+{
+  "name": "vue-tdd",
+  "version": "1.0.0",
+  "description": "Vue TDD Project",
+  "author": "Doug Steinberg",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
